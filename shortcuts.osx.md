@@ -20,10 +20,12 @@ Level 3 (L3)
 * Multiple key combination (sometimes more than two)
 * Very specific to sublime
 
+For shortcuts whose purpose isn't obvious, there will be a short description for a use case included.
+
 # Cheatsheet Contents
 
 ## Moving around
-*Moving around your cursor within a file with precision*
+*Moving your cursor around with surgical precision*
 
 **Move to the ...**
 
@@ -48,6 +50,8 @@ Level 3 (L3)
 * L3
     * specific line
     * previous cursor position
+
+    *useful for not losing your position when you jump to a different part of the file*
     * next cursor position
     * closing parenthesis
 
