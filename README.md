@@ -2,14 +2,18 @@
 
 **Goal:** a single file that represents all of sublimes features that is OS agnostic and digestable for beginners and advanced users alike.
 
-## Tasks
+This sheet serves also exists to succeed in serving two main purposes through its content:
 
+* As an effective reference
+* As an effective learning / mastery tool
+
+## Tasks
 
 ### Establishing structure
 
 I think this is the piece that a lot of cheatsheets can improve on. A cheatsheet is useless if the information is organized in such a way that commands are difficult to find. When you're programming, you don't want to expend more mental effort than is appropriate just to find a shortcut key. This is hard to get right but it's the most important thing to get right.
 
-- [ ] create content structure. no shortcut info here yet.
+- [ ] create content structure. no shortcut info here yet. (IN PROGRESS). See the file `shortcuts.osx.md` for progress.
 - [ ] format it to make it somewhat presentable :)
 
 ### Adding shortcuts
@@ -20,3 +24,7 @@ Whatever the solution here will be, it should NOT force people to install anythi
 
 - [ ] add shortcuts for mac osx
 - [ ] add shortcuts for windows (we should do this programmatically. could use some outside help here)
+
+# Contributing
+
+Please get in touch with me at catwind7@gmail.com if you want to contribute to this effort!
