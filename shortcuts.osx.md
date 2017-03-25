@@ -27,26 +27,26 @@ Level 3 (L3)
 
 *Move to...*
 
-L1
-   end of a character
-   beginning a character
-   next line
-   previous line
+* L1
+    * end of a character
+    * beginning a character
+    * next line
+    * previous line
 
-L2
-   beginning of a word
-   end of a word
+* L2
+    * beginning of a word
+    * end of a word
 
-   beginning of the line
-   end of a line
-   beginning of a new line before a line
-   beginning of a new line after a line
+    * beginning of the line
+    * end of a line
+    * beginning of a new line before a line
+    * beginning of a new line after a line
 
-   beginning of a file (before first line)
-   end of file (end of last line)
+    * beginning of a file (before first line)
+    * end of file (end of last line)
 
-L3
-   specific line
-   previous cursor position
-   next cursor position
-   closing parenthesis
+* L3
+    * specific line
+    * previous cursor position
+    * next cursor position
+    * closing parenthesis
