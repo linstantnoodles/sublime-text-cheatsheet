@@ -16,5 +16,7 @@ I think this is the piece that a lot of cheatsheets can improve on. A cheatsheet
 
 Many cheatsheets also suffer in that they are either for linux, windows, or mac. Ideally, we should come up with something that addresses all the operating systems that support sublime. Maybe this means coming up with a special notation that is defined up front. Maybe we can generate OS specific sheets programmatically.
 
+Whatever the solution here will be, it should NOT force people to install anything. That's silly.
+
 - [ ] add shortcuts for mac osx
 - [ ] add shortcuts for windows (we should do this programmatically. could use some outside help here)
