@@ -25,7 +25,7 @@ Level 3 (L3)
 ## Moving around
 *Moving around your cursor within a file with precision*
 
-*Move to the ...*
+**Move to the ...**
 
 * L1
     * end of a character
@@ -54,4 +54,4 @@ Level 3 (L3)
 Next section will be on ...
 
 ## Selecting text
-* Selecting text within a file to manipulate*
+*Selecting text within a file to manipulate*
