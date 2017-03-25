@@ -22,14 +22,14 @@ Level 3 (L3)
 
 # Cheatsheet Contents
 
-## Cursor motion
-*moving your cursor where you want it in a file with precision*
+## Moving around
+*Moving around your cursor within a file with precision*
 
-*Move to...*
+*Move to the ...*
 
 * L1
     * end of a character
-    * beginning a character
+    * beginning of a character
     * next line
     * previous line
 
@@ -50,3 +50,8 @@ Level 3 (L3)
     * previous cursor position
     * next cursor position
     * closing parenthesis
+
+Next section will be on ...
+
+## Selecting text
+* Selecting text within a file to manipulate*
