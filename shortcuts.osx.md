@@ -24,38 +24,44 @@ For shortcuts whose purpose isn't obvious, there will be a short description for
 
 # Cheatsheet Contents
 
-## Moving around
-*Moving your cursor around with surgical precision*
+## Navigating cursor around
 
-**Move to the ...**
+**Move cursor to the ...**
 
-* L1
-    * end of a character
     * beginning of a character
-    * next line
-    * previous line
+    * end of a character
 
-* L2
+    ---
     * beginning of a word
     * end of a word
 
+    ---
     * beginning of the line
-    * end of a line
-    * beginning of a new line before a line
-    * beginning of a new line after a line
+    * end of the line
+    * next line
+    * previous line
 
+    ---
     * beginning of a file (before first line)
     * end of file (end of last line)
 
-* L3
-    * specific line
-    * previous cursor position
-
-    *useful for not losing your position when you jump to a different part of the file*
-    * next cursor position
+    ---
     * closing parenthesis
+
+**Jump cursor to the ...**
+
+    * specific line
+
+    ---
+    * previous cursor position
+    * next cursor position
 
 Next section will be on ...
 
-## Selecting text
-*Selecting text within a file to manipulate*
+## Selecting text to manipulate
+
+**Select ...**
+
+This is a natural extension of knowing how to move your cursor around because a selection is a chunk of text that's been selected between your starting cursor and ending cursor position.
+
+If you know the shortcut for moving a cursor to the end of a word, then you'll know how to create a selection to the end of a word!
