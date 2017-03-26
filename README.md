@@ -14,6 +14,25 @@ This sheet serves also exists to succeed in serving two main purposes through it
 I think this is the piece that a lot of cheatsheets can improve on. A cheatsheet is useless if the information is organized in such a way that commands are difficult to find. When you're programming, you don't want to expend more mental effort than is appropriate just to find a shortcut key. This is hard to get right but it's the most important thing to get right.
 
 - [ ] create content structure. no shortcut info here yet. (IN PROGRESS). See the file `shortcuts.osx.md` for progress.
+    - [ ] Things you do to the contents of a file
+        - [x] navigating cursor aroud text
+            - [x] moving cursor
+            - [x] jumping cursor
+        - [x] selecting text
+            - [x] selection using cursor motion
+            - [x] special selection
+        - [x] editing text
+            - inserting
+            - transposing
+            - duplicating
+            - deleting
+        - [ ] searching for text using the search panel
+            - [ ] find next
+            - [ ] find previous
+            - [ ] find all
+        - [ ] replacing text using the replace panel
+            - [ ] replace next
+
 - [ ] format it to make it somewhat presentable :)
 
 ### Adding shortcuts

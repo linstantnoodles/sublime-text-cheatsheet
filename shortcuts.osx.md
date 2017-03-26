@@ -42,10 +42,11 @@ Next section will be on ...
 
 ## Topic 2: Selecting text to manipulate
 
-**Select (using cursor movement)...**
+### Normal selection (using cursor movement)
 ---
+*Combine the `SHIFT` key with cursor **moving** (not **jumping**) commands to form a selection of text between the cursor beginning and ending positions.*
 
-*Combine the SHIFT key with cursor **moving** (not **jumping**) commands to form a selection of text between the cursor beginning and ending positions.*
+**Select ...**
 
     * beginning of a character
     * end of a character
@@ -68,15 +69,41 @@ Next section will be on ...
     * closing parenthesis
 
 
-**Select (special selection not based on cursor movement)...**
+### Special selection (not based on cursor movement)
 ---
 
-    * whole word
+**Select ...**
 
-    ---
+#### Expanding selection
+*Select a range of characters at once*
+
+    * whole word
+    * whole line
+    * whole paragraph
     * everything in scope
     * everything in same level of indentation
     * everything in the file
 
-    ---
+#### Multiple selection
+*Select multiple occurrences of an existing selection*
+
+    * next match of an existing selection
     * every match of an existing selection
+
+## Topic 3: Editing
+
+    * inserting
+        * inserting a new line after current line
+        * inserting a new line before current line
+    * duplicating
+        * duplicating a line
+        * duplicating the selection
+    * transposing (changing places)
+        * transposing line up (swap current line with previous line)
+        * transposing line down (swap current line with next line)
+        * transposing selection up / down (swap current selection with next / prev line)
+    * deleting
+        * to end of the line
+        * to start of the lne
+        * current line
+    * commenting
