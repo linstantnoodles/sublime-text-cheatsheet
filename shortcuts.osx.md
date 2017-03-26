@@ -4,30 +4,30 @@ The contents are organized such that the more basic and/or more frequently used 
 
 I will also be making use of vertical distance within each topic to improve readability.
 
-## Topic 1: Navigating cursor around
+## Topi 1: Navigating cursor around
 
 **Move cursor to the ...**
 ---
 
-    * beginning of a character
-    * end of a character
+    * beginning of a character - left
+    * end of a character - right
 
     ---
-    * beginning of a word
-    * end of a word
+    * beginning of a word - option + left
+    * end of a word - option + right
 
     ---
-    * beginning of the line
-    * end of the line
-    * next line
-    * previous line
+    * beginning of the line - command + left
+    * end of the line - command + right
+    * next line - down
+    * previous line - up
 
     ---
-    * beginning of a file (before first line)
-    * end of file (end of last line)
+    * beginning of a file (before first line) - command + up
+    * end of file (end of last line) - command + down
 
     ---
-    * closing parenthesis
+    * closing parenthesis - control + M
 
 **Jump cursor to the ...**
 ---
