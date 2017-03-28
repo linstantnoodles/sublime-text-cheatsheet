@@ -26,6 +26,8 @@ I think this is the piece that a lot of cheatsheets can improve on. A cheatsheet
             - transposing
             - duplicating
             - deleting
+        - [x] text visibility
+            - code folding
         - [ ] searching for text using the search panel
             - [ ] find next
             - [ ] find previous

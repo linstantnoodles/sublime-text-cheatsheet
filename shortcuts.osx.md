@@ -32,11 +32,11 @@ I will also be making use of vertical distance within each topic to improve read
 **Jump cursor to the ...**
 ---
 
-    * specific line
+    * specific line - control + g
 
     ---
-    * previous cursor position
-    * next cursor position
+    * previous cursor position - control + shift + -
+    * next cursor position - control + -
 
 Next section will be on ...
 
@@ -48,25 +48,25 @@ Next section will be on ...
 
 **Select ...**
 
-    * beginning of a character
-    * end of a character
+    * beginning of a character - shift + left
+    * end of a character - right
 
     ---
-    * beginning of a word
-    * end of a word
+    * beginning of a word - shift + option + left
+    * end of a word - option + right
 
     ---
-    * beginning of the line
-    * end of the line
-    * next line
-    * previous line
+    * beginning of the line - shift + command + left
+    * end of the line - shift + command + right
+    * next line - shift + down
+    * previous line - shift + up
 
     ---
-    * beginning of a file (before first line)
-    * end of file (end of last line)
+    * beginning of a file (before first line) - shift + command + up
+    * end of file (end of last line) - shift + command + down
 
     ---
-    * closing parenthesis
+    * closing parenthesis - shift + control + M
 
 
 ### Special selection (not based on cursor movement)
@@ -77,33 +77,42 @@ Next section will be on ...
 #### Expanding selection
 *Select a range of characters at once*
 
-    * whole word
-    * whole line
-    * whole paragraph
-    * everything in scope
-    * everything in same level of indentation
-    * everything in the file
+    * whole word - command + D
+    * whole line - command + L
+    * everything in current scope - shift + command + space
+    * everything in current indentation - shift + command + J
+    * everything in the file - command + A
 
 #### Multiple selection
 *Select multiple occurrences of an existing selection*
 
-    * next match of an existing selection
-    * every match of an existing selection
+    * next match of an existing selection - command + D (repeat)
+    * every match of an existing selection - control + command + G
 
 ## Topic 3: Editing
 
     * inserting
-        * inserting a new line after current line
-        * inserting a new line before current line
+        * inserting a new line after current line - shift + command + enter
+        * inserting a new line before current line - command + enter
     * duplicating
-        * duplicating a line
-        * duplicating the selection
+        * duplicating a line - command + shift + D
+        * duplicating the selection - command + shift + D
     * transposing (changing places)
-        * transposing line up (swap current line with previous line)
-        * transposing line down (swap current line with next line)
+        * transposing line up (swap current line with previous line) - control + command + up
+        * transposing line down (swap current line with next line) - control + command + down
         * transposing selection up / down (swap current selection with next / prev line)
     * deleting
-        * to end of the line
-        * to start of the lne
-        * current line
-    * commenting
+        * to end of the line - command + K + K
+        * to start of the line - command + K + DELETE
+        * current line - control + shift + K
+    * comment toggling - command + /
+    * undo / redo -
+
+## Topic 4: Text visibility control
+
+    * Code folding
+        * fold current indent level - option + command + [
+        * unfold current indent level - option + command + ]
+        * fold all indented N levels - [command + K] + [command + N]
+        * fold all - command + K + command + 1
+        * unfold all - command + K + command + J
