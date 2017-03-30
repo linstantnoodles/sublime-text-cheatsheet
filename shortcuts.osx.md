@@ -86,10 +86,10 @@ control + command + G
 
 ## Insert …
 
-**new line after current line**
+**new line before current line**
 shift + command + enter
 
-**new line before current line**
+**new line after current line**
 command + enter
 
 ## Duplicate …
