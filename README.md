@@ -14,7 +14,7 @@ This sheet serves also exists to succeed in serving two main purposes through it
 I think this is the piece that a lot of cheatsheets can improve on. A cheatsheet is useless if the information is organized in such a way that commands are difficult to find. When you're programming, you don't want to expend more mental effort than is appropriate just to find a shortcut key. This is hard to get right but it's the most important thing to get right.
 
 - [x] create content structure. no shortcut info here yet. (IN PROGRESS). See the file `shortcuts.osx.md` for progress.
-    - [x] Things you do to the contents of a file
+    - [x] Part 1: Things you do to the contents of a file
         - [x] navigating cursor aroud text
             - [x] moving cursor
             - [x] jumping cursor
@@ -28,6 +28,39 @@ I think this is the piece that a lot of cheatsheets can improve on. A cheatsheet
             - deleting
         - [x] text visibility
             - code folding
+    - [ ] Other content:
+        - installation
+        - ideal finger to key mappings
+        - search panel
+        - replace panel
+        - panel options
+        - search and replace project wide
+        - window management
+            - creating a new buffer
+            - switching buffers
+            - new window
+            - moving buffer from one window to the next
+            - closing / hiding certain windows like the explorer
+        - marking positions / bookmarkin
+        - macros
+        - creating new file
+        - opening a file
+        - finding a file
+        - package management
+        - editor configuration
+            - syntax
+            - settings
+            - useful basic settings
+            - project specific
+        - writing plugins
+        - publishing plugins
+        - useful plugins and how to use
+        - refactoring efficiencies
+        - window stuff
+            - console
+            - sidebar
+            - minimap
+            - search / replace panels
 
 - [x] format it to make it somewhat presentable :)
 
