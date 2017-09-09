@@ -1,1 +1,0 @@
-# All shortcuts related to text in a file - selecting, navigating, changing.
