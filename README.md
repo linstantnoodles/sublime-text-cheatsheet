@@ -19,6 +19,7 @@ I think this is the piece that a lot of cheatsheets can improve on. A cheatsheet
             - [x] moving cursor
             - [x] jumping cursor
         - [x] selecting text
+        - [x] selecting text
             - [x] selection using cursor motion
             - [x] special selection
         - [x] editing text
@@ -31,21 +32,19 @@ I think this is the piece that a lot of cheatsheets can improve on. A cheatsheet
     - [ ] Other content:
         - installation
         - ideal finger to key mappings
-        - search panel
-        - replace panel
-        - panel options
-        - search and replace project wide
+        - [x] search panel
+        - [x] replace panel
+        - [x] panel options
+        - [x] search and replace project wide
         - window management
             - creating a new buffer
             - switching buffers
             - new window
             - moving buffer from one window to the next
             - closing / hiding certain windows like the explorer
-        - marking positions / bookmarkin
-        - macros
-        - creating new file
-        - opening a file
-        - finding a file
+        - [x] marking positions / bookmarkin
+        - [x] macros
+        - [x] file management
         - package management
         - editor configuration
             - syntax
