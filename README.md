@@ -6,5 +6,3 @@ I created this sheet to serve two main purposes through its content:
 
 * As an effective reference
 * As an effective learning / mastery tool
-
-PR's are welcome!
